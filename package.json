@@ -1,0 +1,16 @@
+{
+  "name": "filesize-monitor",
+  "version": "0.1.1",
+  "description": "<BETA>check filesize and display warning when it exceeds specified limit size",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Yu Takada / Tyffon",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "through2": "^3.0.1"
+  }
+}
